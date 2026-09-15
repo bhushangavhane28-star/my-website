@@ -1,0 +1,6 @@
+Good morning/afternoon, sir/madam.
+My name is Bhushan Gavhane. I have completed my Bachelor's degree in Computer Science and Engineering.
+Currently, I am working as a Frontend Developer Intern at Cybotronic Solutions Pvt. Ltd. I work with React.js, JavaScript, HTML, CSS, Material UI, and REST APIs.
+I am currently contributing to an Algo Trading Platform, where I develop UI features, integrate APIs, fix bugs, and improve the application's user experience. This internship has given me valuable hands-on experience in frontend development, teamwork, and building real-world applications.
+I am a quick learner, enjoy solving problems, and always strive to improve my technical skills by learning new technologies and building projects.
+Thank you.
